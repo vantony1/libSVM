@@ -1,0 +1,5 @@
+module libSVM [system] {
+  header "/usr/local/Cellar/libsvm/3.22/include/svm.h"
+  link "libSVM"
+  export *
+}
